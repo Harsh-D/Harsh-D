@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I am **Harsh Deshpande**, currently learning Web Development  
+🔭 I’m working on various projects using ReactJS, NodeJS & typescript.
 <!--
 **Harsh-D/Harsh-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

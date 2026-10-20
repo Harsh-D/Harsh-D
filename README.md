@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=Harsh-D&color=blueviolet&style=flat-square&label=Profile+Views)
 # Hi, I'm Harsh Deshpande 👋
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans&duration=4000&pause=500&color=6F00FF&width=435&lines=Senior+Software+Engineer;WSAudiology+%7C%F0%9F%A6%BB;%F0%9F%93%8D+Hyderabad%2C+India)](https://git.io/typing-svg)
